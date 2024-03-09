@@ -1,79 +1,98 @@
-# MathBridge Demo page
-### Ananymous submission for INTERSPEECH 2024
-## ASR pipeline demo
+# MathBridge Demo Page
 
-### 1. Youtube Math lecture
-link : https:// <br/>
-audio:
+## Anonymous Submission for INTERSPEECH 2024
 
-<audio controls>
-  <source src="audios/audio_output_0.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+This page showcases a demonstration of the ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) pipelines focused on mathematical content.
 
+---
 
-<br/>
-latex:<br/>
-rendered image:
-![image 1](images/image_58.jpg)
+### ASR Pipeline Demo
 
-### 2. Youtube Math lecture
-link : https:// <br/>
-audio:
+This section demonstrates the ASR pipeline using YouTube math lectures.
 
-<audio controls>
-  <source src="audios/audio_output_0.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+#### 1. YouTube Math Lecture
 
+- **Link:** `https://` *(link appears to be incomplete)*
+- **Audio:**
 
-<br/>
-latex:<br/>
-rendered image:
-![image 1](images/image_58.jpg)
+  <audio controls>
+    <source src="audios/audio_output_0.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
 
+- **Rendered Image:**
 
-### 3. Youtube Math lecture
-link : https:// <br/>
-audio:
+  ![Math Lecture Rendered Image](images/image_58.png)
 
-<audio controls>
-  <source src="audios/audio_output_0.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+#### 2. YouTube Math Lecture
 
+- **Link:** `https://` *(link appears to be incomplete)*
+- **Audio:**
 
-<br/>
-latex:<br/>
-rendered image:
-![image 1](images/image_58.jpg)
+  <audio controls>
+    <source src="audios/audio_output_0.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
 
-* * *
-## TTS pipeline demo
+- **Rendered Image:**
 
-### 1. Math textbook
-image:![image 1](images/image_58.jpg)<br/>
-audio:
-<audio controls>
-  <source src="audios/audio_output_0.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-<br/>
+  ![Math Lecture Rendered Image](images/image_58.png)
 
-### 2. Math textbook
-image:![image 1](images/image_58.jpg)<br/>
-audio:
-<audio controls>
-  <source src="audios/audio_output_0.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-<br/>
+#### 3. YouTube Math Lecture
 
-### 3. Math textbook
-image:![image 1](images/image_58.jpg)<br/>
-audio:
-<audio controls>
-  <source src="audios/audio_output_0.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-<br/>
+- **Link:** `https://` *(link appears to be incomplete)*
+- **Audio:**
+
+  <audio controls>
+    <source src="audios/audio_output_0.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+- **Rendered Image:**
+
+  ![Math Lecture Rendered Image](images/image_58.png)
+
+---
+
+### TTS Pipeline Demo
+
+This section demonstrates the TTS pipeline using images from math textbooks.
+
+#### 1. Math Textbook
+
+- **Image:**
+
+  ![Math Textbook Image](images/image_58.png)
+
+- **Audio:**
+
+  <audio controls>
+    <source src="audios/audio_output_0.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+#### 2. Math Textbook
+
+- **Image:**
+
+  ![Math Textbook Image](images/image_58.png)
+
+- **Audio:**
+
+  <audio controls>
+    <source src="audios/audio_output_0.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+#### 3. Math Textbook
+
+- **Image:**
+
+  ![Math Textbook Image](images/image_58.png)
+
+- **Audio:**
+
+  <audio controls>
+    <source src="audios/audio_output_0.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
